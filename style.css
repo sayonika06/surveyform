@@ -1,0 +1,21 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+    
+}
+body{
+    background: url(bg.jpg) no-repeat center center/cover;
+}
+
+
+
+
+.container h1
+{
+    text-align: center;
+    margin: 10px 10px 30px 10px;
+}
